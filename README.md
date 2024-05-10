@@ -1,5 +1,5 @@
-
 # Available Datasets
+Below are explanations of the datasets in this repository. Please note that the included csv files are only samples of the whole dataset.
 
 ## Sample Australia Golf Affiliated Clubs
 | club_id | name                    |
