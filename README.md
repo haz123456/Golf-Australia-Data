@@ -1,8 +1,6 @@
 
 # Available Datasets
 
-Feel free to send me a message if interested in this data.
-
 ## Sample Australia Golf Affiliated Clubs
 | club_id | name                    |
 |---------|-------------------------|
