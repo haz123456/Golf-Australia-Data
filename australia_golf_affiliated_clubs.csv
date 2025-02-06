@@ -1,0 +1,1739 @@
+club_id,name
+801,Alice Springs Golf Club
+802,Alyangula Golf Club
+803,Darwin Golf Club
+804,Gove Country Golf Club
+805,Humpty Doo + Rural Area Golf Club
+806,Jabiru Golf Club
+807,Katherine Golf Club
+808,Palmerston Golf  Club
+809,RAAF Darwin Golf Club
+810,Tennant Creek Golf Club
+811,RAAF Tindal Golf Club
+812,Elliott Golf Club
+813,Gardens Park Golf Links
+20101,Stonecutters Ridge GC
+20102,Avondale Golf Club
+20103,Bankstown Golf Club
+20104,Bonnie Doon Golf Club
+20105,Castle Hill Country Club
+20106,Concord Golf Club
+20107,Cromer Golf Club
+20108,Elanora Country Club
+20109,Killara Golf Club
+20110,Long Reef Golf Club
+20111,Manly Golf Club
+20112,Mona Vale Golf Club Ltd
+20113,Monash Country Club
+20114,Moore Park Golf Club
+20115,Muirfield Golf Club
+20116,Brighton Lakes Recreation and Golf Club
+20117,New South Wales Golf Club
+20118,Oatlands Golf Club
+20119,Pennant Hills Golf Club
+20120,Pymble Golf Club
+20121,Ryde Parramatta Golf Club
+20122,St Michael's Golf Club
+20123,Strathfield Golf Club
+20124,Terrey Hills Golf + Country Club
+20125,The Australian Golf Club
+20126,The Lakes Golf Club
+20127,The Royal Sydney Golf Club
+20128,Twin Creeks Golf and Country Club
+20201,Asquith Golf Club
+20202,Balgowlah Golf Club
+20203,Bayview Golf Club
+20204,Beverley Park Golf Club
+20205,Bexley Golf Club
+20206,Cabramatta Golf Club
+20207,Lakeside Golf Club Camden
+20208,Cammeray Golf Club
+20209,Campbelltown Golf Club
+20210,Carnarvon Golf Club
+20211,Chatswood Golf Club
+20212,Cronulla Golf Club
+20213,Cumberland Country Golf Club
+20214,Eastlake Golf Club
+20215,Fox Hills Golf Club Ltd
+20216,Kogarah Golf Club
+20217,Liverpool Golf Club
+20218,Massey Park Golf Club
+20219,North Ryde Golf Club
+20220,Northbridge Golf Club
+20221,Penrith Golf and Recreation Club
+20223,Riverside Oaks Golf Club
+20224,Roseville Golf Club
+20225,Wakehurst Golf Club
+20226,Warringah Golf Club
+20227,Woolooware Golf Club
+20301,Antill Park Country Golf Club Ltd
+20302,Bardwell Valley Golf Club
+20303,Barnwell Park Golf Club
+20304,Bondi Golf Club
+20305,Botany Golf Club
+20306,Camden Golf Club
+20307,Castlecove Country Club
+20308,Dunheved Golf Club
+20309,Glenmore Heritage Valley Golf Club
+20310,Gordon Golf Club
+20311,Kareela Golf Club
+20312,Lynwood Country Club
+20313,Lane Cove Country Golf Club
+20314,Leonay Golf Club
+20315,Marrickville Golf Club
+20316,Palm Beach Golf Club Ltd
+20318,Orchard Hills Golf Club
+20319,Randwick Golf Club
+20320,Richmond Golf Club
+20321,Rosnay Golf Club
+20323,Rum Corps Barracks Golf Club
+20324,The Coast Golf and Rec Club
+20326,Wallacia Panthers Golf and Country Club
+20327,Windsor Golf Club
+20328,Woollahra Golf Club
+20329,Georges River Golf Club
+20330,Sefton Golf Club
+20331,Hurstville Golf Club
+20332,Avalon Golf Course
+20333,Fairfield Golf Club
+20391,Avalon Ladies Golf Club
+20393,Wisemans Ferry Golf Club
+20394,North Turramurra Ladies Golf Club
+20504,Honiara Golf Club
+20505,Lord Howe Island Golf Club
+20506,Norfolk Island Golf Club
+20507,Port Vila Golf and Country Club
+20508,Macquarie Links International Golf Club
+20509,Macarthur Grange Country Club
+20511,Golfers Club NSW
+20601,Bigga Golf Club
+20602,Bombala Golf Club Ltd
+20603,Braidwood Servicemens Club Ltd
+20605,Coolamatong Snowy Mountain Country Club
+20606,Cooma Golf Club
+20607,Crookwell Golf Club
+20608,Delegate Country Club
+20609,Federal Golf Club
+20610,Gold Creek Golf Club
+20611,Goulburn Golf Club
+20612,Gunning Golf Club
+20614,Murrumbidgee Country Club
+20616,Queanbeyan Golf Club
+20617,Fairbairn Golf Club Inc
+20618,Royal Canberra Golf Club
+20619,Royal Military College Golf Club
+20620,Taralga Golf Club
+20621,Thredbo Golf Club
+20622,Tully Park Golf Club
+20623,Belconnen Magpies Golf Club
+20624,Yass Golf Club
+20625,Yowani Country Club
+20626,Gungahlin Lakes Golf Club
+20701,Blackheath Golf Club
+20703,Gulgong Golf Club
+20704,Henbury Sport and Recreation Club Ltd
+20706,Leura Golf Club
+20707,Lithgow Golf Club Ltd
+20708,Mudgee Golf Club
+20709,Oberon Golf Club
+20710,Portland Golf Club
+20711,Springwood Country Club
+20712,Wentworth Falls Country Club
+20730,Broken Hill Golf + Country Club
+20731,South Broken Hill Golf Club
+20801,Everglades Country Club
+20802,Gosford Golf Club
+20803,Mangrove Mountain Memorial Club
+20804,Morisset Country Club
+20805,Breakers Country Club
+20806,Toukley Golf Club
+20807,Shelly Beach Golf Club
+20808,Wyong Golf Club
+20809,The Springs Golf and Country Club
+20810,Magenta Shores Golf and Country Club
+20811,Kooindah Waters Golf Club
+20901,Bathurst Golf Club
+20902,Blayney Golf Club
+20903,Canowindra Golf Club
+20904,Cowra Golf Club
+20905,Cumnock Golf Club Inc
+20907,Manildra Golf Club
+20908,Molong Golf Club
+20909,Orange Ex-Services Country Golf Club
+20910,Duntryleague Golf Club
+20911,Sunny Ridge Golf Club
+20912,Wellington Golf Club
+20914,Yeoval Golf Club
+21001,Bega Country Club
+21002,Bermagui Country Club
+21004,Catalina Country Club
+21006,Eden Gardens Country Club
+21007,Moruya Golf Club
+21008,Narooma Golf Club
+21009,Pambula-Merimbula Golf Club
+21010,Tathra Beach Country Club
+21011,Tura Beach Country Club
+21012,Tuross Head Country Club
+21013,Mandeni Golf Club
+21101,Aberdeen Golf Club
+21102,Branxton Golf Club
+21103,Cessnock Golf Club
+21104,Cypress Lakes Golf Club
+21105,Denman Golf Club
+21106,Dungog and District Golf Club
+21107,Kurri Kurri Golf Club
+21108,Maitland Golf Club - Easts Leisure + Golf
+21109,Merriwa Golf Club
+21110,Murrurundi Golf Club
+21111,Muswellbrook Golf Club
+21112,Scone Golf Club
+21113,Singleton Golf Club
+21114,Stroud Golf Club
+21116,Paterson Golf Club
+21117,The Vintage Golf Club
+21118,Hunter Valley Golf and Country Club
+21202,Gibraltar Country Club
+21203,Bowral Golf Club
+21204,Callala RSL Country Golf Club
+21205,Gerringong Golf Club Inc
+21206,Highlands Golf Club
+21207,HMAS Creswell Golf Club
+21208,Jamberoo Golf Club Ltd
+21209,Kangaroo Valley Country Club
+21210,Kiama Golf Club
+21211,Mollymook Golf Club Ltd
+21212,Moss Vale Golf Club
+21213,Mt Broughton Golf Club
+21214,Nowra Golf and Recreation Club
+21215,Port Kembla Golf Club
+21216,Russell Vale Golf Club
+21217,The Links Shell Cove
+21218,The Country Club St Georges Basin
+21219,Sussex Inlet Golf Club
+21220,The Grange Golf Club
+21221,The Country Club Vincentia
+21222,Wollongong Golf Club
+21223,Shoalhaven Heads Golf Club Ltd
+21225,Worrigee Links Golf Course (Shoalhaven Ex-Ser-vicemans)
+21301,Bogan Gate Golf Club
+21303,Caragabal Country Golf Club
+21304,Condobolin Sports Club Ltd
+21306,Forbes Golf Club
+21307,Grenfell Country Club
+21309,Lake Cargelligo Golf Club
+21311,Parkes Golf Club
+21312,Peak Hill Golf Club Co-Operative Ltd
+21313,Rankin Springs Golf Club
+21314,Trundle Golf Club
+21315,Weethalle Country Golf Club
+21401,Bulahdelah Golf Club
+21402,Kew Country Club
+21404,Forster-Tuncurry Golf Club
+21405,Gloucester Country Club Ltd
+21407,Port Macquarie Golf Club
+21408,Club Taree - Golf
+21409,Wauchope Golf Club
+21410,Wingham Golf Club
+21413,Coomba Park Golf and Country Club
+21414,Harrington Waters Golf Club
+21415,Tallwoods Golf Club
+21501,Bellingen Golf Club
+21502,Bonville Golf Resort
+21503,Bowraville Golf Club
+21504,Coffs Harbour Golf Club
+21505,Crescent Head Country Club
+21506,Dorrigo RSL Golf Club
+21507,Frederickton Golf Club
+21508,Grafton District Golf Club
+21509,Kempsey Golf Club
+21510,Macksville Country Club
+21512,Sawtell Golf Club
+21513,Woolgoolga RSL Golf Club
+21514,South West Rocks Country Club
+21515,CEX Urunga Golf Club
+21601,Commercial Albury Golf Club
+21602,Corowa Golf Club
+21603,Howlong Country Golf Club
+21605,Jindera Country Golf Club
+21606,Rand Golf Club
+21607,Thurgoona Country Club Resort
+21608,Walla Walla Golf Club
+21611,Nambucca Heads Island Golf Club
+21701,Ashford Golf Club
+21703,Deepwater Golf Club
+21704,Delungra Golf Club
+21705,Emmaville Golf Club Inc
+21706,Glen Innes Golf Club
+21707,Guyra Bowling and Recreation Club
+21708,Inverell Golf Club
+21709,Tenterfield Golf Club
+21801,Belmont Golf Club
+21802,Charlestown Golf Club
+21803,Hawks Nest Golf Club
+21804,Horizons Golf Resort
+21805,Karuah Golf Club
+21806,Merewether Golf Club
+21807,Muree Golf Club
+21808,Nelson Bay Golf Club
+21809,Newcastle Golf Club
+21810,Shortland Waters Golf Club
+21811,Sugar Valley Golf Club
+21812,Tanilba Bay Golf Club
+21813,The Palms Golf Course
+21814,Toronto Country Club
+21815,Waratah Golf Club
+21816,Beresfield Golf Club
+21817,Pacific Dunes Golf Club
+21890,Beresfield Ladies Golf Club
+21901,Bellata Golf Club
+21902,Bingara Sporting Club
+21905,Moree Golf Club Ltd
+21906,Mungindi Golf Club
+21907,Narrabri Golf Club
+21909,Warialda Golf and Bowling Club
+21910,Wee Waa Golf Club
+22001,Ballina Golf and Sports Club
+22002,Byron Bay Golf Club
+22003,Casino Golf Club
+22004,Coolangatta and Tweed Heads Golf Club
+22005,Coraki Golf Club
+22006,Iluka Golf Club Ltd
+22007,Kyogle Golf Club
+22008,Lismore Workers Golf Club
+22009,MacLean Golf Club
+22010,Mullumbimby Golf Club
+22011,Murwillumbah Golf Club
+22012,Ocean Shores Country Club
+22014,Club Banora Golf Club
+22015,Woodburn Evanshead Golf Club
+22016,Woodenbong District Golf Club
+22017,Yamba Golf + Country Club
+22018,Teven Golf Club
+22019,Bonalbo Golf Club
+22020,Pottsville Golf Club
+22101,Armidale Golf Club
+22102,Barraba Golf Club
+22103,Boggabri Golf Club
+22105,Gunnedah Golf Club
+22106,Longyard Golf Club
+22107,Manilla NSW Golf Club
+22108,Nundle Golf Club
+22109,Quirindi RSL Golf Club
+22110,Spring Ridge Country Club
+22111,Tamworth Golf Club
+22112,Uralla Golf Club
+22113,Walcha Golf Club
+22114,Werris Creek Golf Club
+22201,Adelong Golf Club
+22204,Batlow Golf Club
+22206,Coolamon Sport and Recreation Club
+22207,Corryong Golf Club
+22208,Culcairn Golf Club
+22209,Ganmain Golf Club
+22210,Grong Grong Golf Club
+22211,Henty Golf Club
+22212,Holbrook Returned Servicemen's Golf Club
+22214,Junee Golf Club
+22215,Kapooka Golf Club
+22216,Khancoban Country Club
+22217,Leeton Soldiers Golf Club
+22218,Lockhart Golf Club
+22219,Narrandera Golf Club
+22221,Rosewood Golf Club
+22222,The Rock Golf Club
+22223,Tumbarumba Golf Club
+22225,Wagga Wagga Country Club
+22226,Wagga City Golf Club
+22227,Walwa Golf Club
+22228,Welaregang Country Golf Club
+22301,Ariah Park Golf Club
+22302,Binalong Golf Club Ltd
+22303,Boorowa Golf Club
+22304,Cootamundra Country Club
+22305,Gundagai Services Golf Club
+22306,Harden Country Club
+22309,Temora Golf Club
+22310,Tumut Golf Club
+22311,West Wyalong S and C Sports Club
+22312,Young Golf Club
+22314,Clover Leigh Golf Club
+22315,Talbingo Golf Club
+22401,Albert Golf Club
+22402,Baradine Golf Club
+22403,Binnaway Golf Club
+22404,Darling River Golf Club
+22405,Brewarrina District Golf Club
+22407,Cobar Bowling and Golf Club
+22408,Coolah Sporting Club
+22409,Coonabarabran Golf Club
+22410,Coonamble Golf Club
+22411,Dubbo Golf Club
+22412,Dunedoo Golf Club
+22413,Gilgandra Golf Club
+22417,Mendooran Golf Club
+22418,Narromine Golf Club
+22419,Nyngan Golf Club
+22421,Tottenham Golf Club
+22422,Trangie Golf Club
+22423,Walgett District Sporting Club
+22424,Wanaaring Golf Club
+22425,Warren Golf Club
+22426,White Sands Golf Club
+22501,Berrigan Golf and Bowling Club
+22502,Coleambally Golf Club
+22504,Deniliquin Golf Club
+22505,Finley Golf Club
+22506,Goolgowi Golf Club
+22507,Griffith Golf Club
+22508,Hay Bowling and Golf Club
+22509,Jerilderie Golf Club and Sports Club
+22510,Lachlan River Sporting Club (Hillston)
+22512,Oaklands Golf Club
+22513,Yenda Golf Club
+22514,Tooleybuc Sporting Golf Club
+23801,Qantas Golf Club
+24001,Chinese Golf Association Australia - SC
+24002,SOGO Golf NSW -SC
+24003,NSW Chemists Golf Club - SC
+24004,The Golf Project - SC
+24005,Piranha Golf Club - SC
+24006,NSW Maccabi Golf Club - SC
+24007,NSW Taxi Golf Association Inc. -SC
+24008,Milperra Golf P/L - SC
+24009,Serbian Australian Golf ACT Inc - SC
+24010,Take a stroke for stroke - SC
+24011,Golf Buddies - SC
+24012,Chinese Golf Association - SC
+24013,Kiwi Golf Club Sydney - SC
+24014,Sydney Kiwi Golf Club Inc - SC
+24015,Nomads Golf Club (Syd Nth) - SC
+24016,Nomads Golf Club (Syd Sth) - SC
+24017,Otter's Pocket Golf Club - SC
+25000,NSW Golf League
+25004,Warringah Golf Club - GAA
+25005,Warringah Golf Club - GAA (No 2)
+25101,Bingara Gorge Golf Course
+25102,Capital Public Golf Course
+25104,The Ridge Golf Course
+25105,The Moorings Golf Club
+25106,North Turramurra Public Golf Club
+25109,Viney Creek Golf Club
+30101,Ranfurlie Golf Club
+30102,Box Hill Golf Club
+30103,Cheltenham Golf Club
+30104,Gardiners Run Golf Club
+30105,Churchill Park Golf Club
+30106,Commonwealth Golf Club
+30107,Cranbourne Golf Club
+30108,Yering Meadows Golf Club
+30109,Eastern Golf Club
+30110,Eastwood Golf Club
+30112,Gisborne Golf Club
+30113,Goonawarra Golf Club
+30114,Green Acres Golf Club
+30115,Heidelberg Golf Club
+30116,Huntingdale Golf Club
+30117,Kew Golf Club
+30118,Keysborough Golf Club
+30119,Kingston Heath Golf Club
+30120,Kingswood Golf Club
+30121,Kooringal Golf Club
+30122,Latrobe Golf Club
+30123,The National GC - Long Island
+30124,Medway Golf Club
+30125,The Metropolitan Golf Club
+30126,Northern Golf Club
+30127,Patterson River Golf Club
+30128,Peninsula-Kingswood Country Golf Club
+30129,Riversdale Golf Club
+30130,Rosanna Golf Club
+30131,Rossdale Golf Club
+30132,Royal Melbourne Golf Club
+30133,Southern Golf Club
+30134,Spring Valley Golf Club
+30135,Mt Derrimut Golf Club
+30136,Melbourne Airport Golf Club
+30137,Victoria Golf Club
+30138,Churchill-Waverley GC (Waverley Site)
+30139,Werribee Park Golf Club
+30140,Whittlesea Golf Club
+30141,Woodlands Golf Club
+30142,Yarra Yarra Golf Club
+30143,Sanctuary Lakes Golf Club
+30144,Heritage Golf and Country Club
+30145,Sandhurst Club
+30146,Settlers Run Golf and Country Club
+30201,Altona Lakes Golf Club
+30202,Australasian Golf Club
+30203,Brighton Golf Club
+30204,Camberwell Golf Club
+30205,Centenary Park Golf Club
+30206,Creekside Golf Club
+30207,East Malvern Golf Club
+30208,Elsternwick Park Golf Club
+30209,Forest Hills Golf Club
+30210,Glen Waverley Golf Club
+30211,Kings Park Golf Club
+30212,Lakeside Golf Club - Melb
+30215,Mt Martha Golf Club
+30216,Nepean Golf Club
+30217,Northcote Golf Club
+30218,Oakleigh Golf Club
+30219,Olinda Golf Club
+30220,Ringwood Golf
+30221,Riverside Golf Club - Essendon
+30222,Riverview Golf Club
+30223,Royal Park Golf Club
+30224,Sandringham Golf Club
+30225,Tirhatuan Golf Club Inc
+30226,Wattle Park Golf Club
+30227,Westgate Golf Club
+30229,Yarra Valley Country Club
+30230,Craigieburn Willmott Golf Club
+30231,Dorset Golf
+30232,Yarra View Golf Club
+30233,Growling Frog Golf Club
+30234,Yarrambat Golf Club
+30235,Waterford Valley Golf Club
+30236,Kingston Links Golf Club
+30237,Burnley Golf Club
+30238,Harp Golf Club
+30239,Scotchman's Creek Golf Club
+30240,Morack Senior's Golf Club
+30301,Eastern Sward Golf Club
+30302,RAAF Williams Laverton Base Golf Club
+30303,The National Golf Club
+30304,Strathallan Golf Club
+30305,Eynesbury Golf Club
+30401,Avoca Golf Club
+30402,Bacchus Marsh Golf Club
+30403,Bacchus Marsh West Golf Club
+30404,Ballan Golf Club
+30405,Ballarat Golf Club
+30406,Beaufort Golf Club
+30407,Buninyong Golf Club
+30408,Clunes Golf Club
+30409,Creswick Golf Club
+30410,Elmhurst Golf Club
+30411,Lexton Golf Club
+30412,Maryborough Golf Club
+30413,Melton Valley Golf Club
+30414,Meredith Golf Club
+30415,Midlands Golf Club
+30416,Mt Xavier Golf Club
+30417,Skipton Golf Club
+30418,Snake Valley Golf Club
+30420,Talbot Golf Club
+30421,Ballarat District Golf
+30501,Axedale Golf Club
+30502,Bamawm Golf Club
+30503,Belvoir Park Golf Club
+30504,Bendigo Golf Club
+30505,Bridgewater-On-Loddon Golf Club
+30506,Calivil Golf Club
+30507,Campaspe Golf Club
+30508,Castlemaine Golf Club
+30509,Dunolly Golf Club
+30511,Elmore Golf Club
+30513,Heathcote Golf Club
+30514,Inglewood Golf Club
+30515,Jarklin Golf Club
+30516,Lockington Golf Club
+30517,Marong Golf Club
+30518,Mitiamo Golf Club
+30519,Neangar Park Golf Club
+30520,Quarry Hill Golf Club Inc
+30521,Raywood Golf Club
+30601,Hepburn Springs Golf Club
+30602,Kyneton Golf Club
+30603,Maldon Golf Club
+30604,Mt Alexander Golf Club
+30605,Mt Macedon Golf Club
+30606,Trentham Golf Club
+30607,Woodend Golf Club Inc
+30701,Apollo Bay Golf Club
+30702,Beeac Golf Club
+30703,Birregurra Golf Club
+30704,Camperdown Golf Club
+30706,Cobden Golf Club Inc
+30707,Colac Golf Club Inc
+30708,East Framlingham Golf Club
+30710,Lake Bolac Golf Club
+30711,Lismore Golf Club
+30712,Mortlake Golf Club
+30713,Peterborough Golf Club
+30714,Port Fairy Golf Club
+30715,Rokewood Golf Club
+30716,Terang Golf Club
+30717,Timboon Golf Club
+30718,Warrnambool Golf Club
+30801,Alexandra Golf Club
+30802,Avenel Golf Club
+30803,Broadford Golf Club
+30804,Eildon Golf Club
+30805,Euroa Golf Club
+30806,Kilmore Golf Club
+30807,Lancefield Golf Club
+30808,Marysville Golf Club
+30809,Nagambie Golf Club
+30812,RACV Country Club
+30813,Romsey Golf Club
+30814,Seymour Golf Club
+30815,Strathbogie Golf Club
+30816,Yea Golf Club
+30817,Hidden Valley Golf Club
+30818,Cathedral Golf Club
+30901,Bairnsdale Golf Club
+30902,Buchan Valley Golf Club
+30903,Heyfield Golf Club
+30904,Lakes Entrance Golf Club
+30905,Loch Sport Golf Club
+30906,Maffra Golf Club
+30907,Mallacoota Golf Club
+30908,Newry Golf Club
+30909,Omeo Golf Club
+30910,Orbost Golf Club
+30913,Sale Golf Club Inc.
+30914,South Pines Golf Club
+30915,Tambo Valley Golf Club
+30916,Toongabbie Golf Club
+30917,Yarram Golf Club
+30918,Kings Cove Club
+31001,Anglesea Golf Club
+31002,Bannockburn Golf Club
+31004,Barwon Heads Golf Club
+31005,Barwon Valley Golf Club
+31006,Clifton Springs Golf Club
+31007,Curlewis Golf Club
+31008,East Geelong Golf Club
+31009,Lara Golf Club (previously Elcho Park)
+31010,Inverleigh Golf Club
+31011,Lonsdale Golf Club
+31012,Lorne Golf Club
+31013,Ocean Grove Golf Club
+31014,Portarlington Golf Club
+31015,Queenscliff Golf Club
+31016,Queens Park Golf Club
+31018,St Leonards Golf Club
+31019,Torquay Golf Club
+31020,Winchelsea Golf Club
+31021,Thirteenth Beach Golf Club
+31022,The Sands Torquay Golf Club
+31101,Cobram-Barooga Golf Club
+31102,Cosgrove Golf Club
+31103,Hill Top Golf + Country Club
+31104,Kialla Golf Club
+31105,Kyabram Parkland Golf Club
+31106,Mathoura Golf Club
+31107,Merrigum Golf Club Inc
+31108,Mooroopna Golf Club
+31109,Murchison Golf Club
+31110,Nathalia Golf Club
+31111,Numurkah Golf Club
+31112,Rich River Golf Club
+31113,Rochester Golf Club
+31114,Rushworth Golf Club
+31115,Shepparton Golf Club
+31116,Strathmerton Golf Club
+31117,Tallygaroopna Golf Club
+31118,Tocumwal Golf Club
+31119,Kyabram Valley View Golf Club
+31201,Berriwillock Golf Club
+31202,Birchip Golf Club
+31203,Boort Golf Club
+31204,Charlton Golf Club
+31205,Culgoa Golf Club
+31206,Donald Golf Club
+31207,Korong Vale Golf Club
+31209,Sea Lake Golf Club
+31210,St Arnaud Golf Club
+31211,Wedderburn Golf Club
+31212,Woomelang Golf Club
+31213,Wycheproof Golf Club
+31301,Coomealla Golf Club
+31302,Manangatang Golf Club
+31303,Merbein Golf Club Inc
+31304,Mildura Golf Club
+31306,Ouyen Golf Club
+31308,Red Cliffs Golf Club
+31309,Riverside Golf Club - Mildura
+31310,Robinvale Golf Club
+31312,Underbool Golf Club
+31313,Walpeup Golf Club
+31314,Wentworth Sporting Complex Golf Club Inc
+31401,Bandiana Army Golf Club
+31403,Beechworth Golf Club
+31404,Benalla Golf Club
+31405,Bethanga + District Golf Club
+31406,Boorhaman Golf Club Inc
+31407,Bright Country Golf Club
+31408,Chiltern Golf Club
+31409,Dederang Golf Club
+31410,Golden Vale Golf Club
+31411,Jubilee Golf Club
+31412,Mansfield Golf Club
+31413,Mitta Mitta Golf Club
+31414,Mt Beauty Golf Club
+31415,Myrtleford Golf Club
+31416,Rutherglen Golf Club Inc
+31417,St James Golf Club
+31418,Tallangatta Golf Club
+31419,Tallangatta Valley Golf Club
+31420,Tarrawingee Golf Club
+31421,Wangaratta Golf Club
+31423,Yackandandah Golf Club
+31424,Yarrawonga Mulwala Golf Club Resort
+31425,Wodonga Golf Club
+31501,Balranald Golf Club
+31502,Barham Golf Club
+31503,Cohuna Golf Club
+31504,Kerang Golf Club
+31505,Lakeside Golf Club - Lake Boga
+31506,Lalbert Golf Club
+31508,Murrabit Golf Club
+31509,Murray Downs Golf + Country Club
+31510,Nyah District Golf Club
+31511,Nyah West Golf Club
+31512,Pyramid Hill Golf Club
+31513,Quambatook Golf Club
+31515,Ultima Golf Club
+31601,Cardinia Beaconhills Golf Links
+31603,Carrington Park Golf Club
+31604,Devilbend Golf Club
+31605,Carington Park Club at Eagle Ridge
+31606,Flinders Golf Club
+31607,Cerberus Golf Club
+31608,Berwick Montuna Golf Club
+31609,Mornington Golf Club
+31610,Safety Beach Golf Club
+31611,Portsea Golf Club
+31612,Rosebud Country Club
+31613,The Dunes Golf Club
+31614,Sorrento Golf Club
+31615,Warburton Golf + Sporting Club
+31616,Moonah Links Golf Club
+31618,RACV Cape Schanck
+31620,Gunnamatta Golf Club
+31621,GSM Golf Club
+31701,Phillip Island Golf Club Inc.
+31702,Foster Golf Club
+31703,Korumburra Golf Club
+31704,Lang Lang Golf Club
+31705,Leongatha Golf Club
+31706,Meeniyan Golf Club
+31707,Welshpool Golf Club
+31708,Wonthaggi Golf Club
+31709,Woorayl Golf Club
+31710,Aussie Golf Ranch
+31801,Balmoral Golf Club
+31802,Casterton Golf Club
+31803,Coleraine Golf Club
+31804,Dartmoor Golf Club
+31805,Grampians Golf Club
+31806,Hamilton Golf Club
+31807,Heywood Golf Club
+31808,MacArthur Golf Club
+31809,Merino Golf Club
+31810,Mooralla Golf Club
+31811,ParklandsGolf Club
+31813,Portland Golf Club
+31814,Willaura Golf Club
+31901,Drouin Golf and Country Club
+31902,Garfield Golf Club
+31903,Mirboo North Golf Club
+31904,Moe Golf Club
+31905,Morwell Golf Club
+31906,Pakenham & District Golf Club
+31907,Trafalgar Golf Club
+31908,Traralgon Golf Club
+31909,Warragul Country Club
+31910,Yallourn Golf Club
+31911,Churchill + Monash Golf Club
+32001,Apsley Golf Club
+32002,Aradale Golf Club
+32003,Baker Golf Club
+32004,Brim Golf Club
+32005,Chalambar Golf Club
+32006,Dimboola Golf Club
+32007,Drung Golf Club
+32008,Edenhope Golf Club
+32009,Glenorchy Golf Club Inc
+32010,Goroke Golf Club
+32011,Grange Golf Club
+32012,Harrow Golf Club
+32013,Hopetoun Golf Club
+32014,Horsham Golf Club
+32015,Jeparit Golf Club
+32016,Kaniva Golf Club
+32018,Minyip Golf Club
+32019,Moor Park Golf Club
+32020,Murtoa Golf Club
+32021,Natimuk Golf Club
+32022,Nhill Golf Club
+32023,Pimpinio Golf Club
+32024,Rainbow Golf Club
+32025,Rupanyup Golf Club
+32026,Serviceton Golf Club
+32027,Sheep Hills Golf Club
+32028,Stawell Golf Club
+32029,Toolondo Golf Club
+32030,Wallaloo Golf Club
+32031,Warracknabeal Golf Club
+32032,Halls Gap Golf Club
+32105,Bundoora Park Golf Course - RACV
+32106,Camberwell (Freeway) Golf Course
+32107,Centenary Park Golf Course
+32125,Riverside Golf + Tennis Centre
+32130,Tirhatuan Lakes Golf Course -GAA
+32134,Tirhatuan Club Access
+32136,Mandalay Golf Club
+32201,Italian Golf Association Golf Club - Vic
+32212,Crest Social Golf Club
+32217,Fairway Club Inc
+32224,Kalora Park Social Golf Club
+32232,North Balwyn Allcomers
+32249,Spring Park Golf Course
+32250,The Aegean SGC
+32252,Vic Taxi Golf Association Inc
+32254,Victorian Chemist Social Golf Club
+33001,East Bentleigh YWCA Golf Club
+33002,Malverndale Golf Club
+33003,Malvern Park Ladies Golf Club
+33004,Mentone Golf Club
+33005,Normanby Park Golf Club
+33006,Parkview Golf Club
+33007,Timbertop Golf Club
+33009,Yarra Bend Ladies Golf Club
+33010,Yarrambat Park Ladies Golf Club
+33011,Lakeside Ladies Golf Club
+33012,Nepean Womens Golf Club
+33013,Ivanhoe Ladies Golf Club
+33014,Riverview Ladies Golf Club
+33015,Wattle Park Ladies Golf Club
+33016,Morack Ladies Golf Club
+33017,Sandringham Golf Club Associates
+33018,Growling Frog Ladies Golf Club
+33019,Bundoora Ladies Golf Club
+33020,Stud Valley Ladies Golf Club I
+33021,Burnley Women's Golf Club Inc
+33022,Oakleigh Ladies Golf Club Inc
+33023,Elsternwick Park Women's Golf
+33024,Royal Park Ladies Golf Club In
+33102,Dorset Golf Club - Women
+33103,Goose Gully Golf Club
+34001,Capital Golf Club
+34103,Golden Olive Golf Club
+34104,Victorian Vietnamese Golf Association Inc
+34106,Sortino Golf Club
+34109,Reserve Bank Golf Club
+34110,Great Country Australia Golf C
+34111,Hookers + Slicers
+34112,PPP Social Golf Club
+34113,Elsternwick United Football Club
+34115,Melbourne Golf Club
+34116,Nafrega Social Golf Club
+34122,Putters Social Golf Club Inc
+34123,Yarra Park Social Golf Club
+34125,The Greek Gentlemen's Club
+34126,Ale & Flail Golf Club
+34127,Clifton Hill Golf Club
+34128,Tour Elephants Social Golf Clu
+34129,Kayser Social Golf Club
+34130,Croatian Golf Club
+34131,Kiwi Golf Club Melbourne
+34132,Victorian Sikh Association GC
+34133,The Social Golf Club
+34134,"Hookers, Hackers & Hustlers GC"
+34136,Yarra Bend Golf Inc
+34137,Ivanhoe Men's Social Golf Club
+34138,Cypriot Golf Club
+34140,Wikitoria United GC
+34141,Goldfields Golf Club Inc
+34142,Q Golf Club
+34143,Rosebud Park Golf Club
+34144,Bar Pris Golf Club
+34145,Blue Diamond Golf Club
+34146,West Preston LGC
+34148,Geelong Golf Club
+34149,GCO Golf Club
+34150,Golf Club of Keilor Inc
+34151,Single Malt Golf Club
+34152,Barwon Grove Golf Club
+34153,Waterford Villages Golf Club
+34154,Ranelagh Club
+34155,Yarra Valley Golf Alliance
+34156,Bragging Rites Golf Club
+34158,Malie Golf Club
+34159,Black Bull Golf Club
+34160,19th Hole Golf Club
+34162,Fuson Golf Club
+34163,Serbian GC Geelong
+34164,City View Golf Club
+34165,Double Eagle GC Inc
+40018,Queensland Amputee Golf Association
+40101,Ashgrove Golf Club
+40102,The Brisbane Golf Club
+40103,Gailes Golf Club
+40104,Indooroopilly Golf Club
+40105,Jindalee Golf Club
+40106,Keperra Country Golf Club
+40107,McLeod Golf Club
+40109,Nudgee Golf Club
+40111,Oxley Golf Club
+40112,Pacific Golf Club
+40113,Redcliffe Golf Club
+40114,Royal Queensland Golf Club
+40115,Sandgate Golf Club
+40117,Virginia Golf Club
+40118,Wolston Park Golf Club
+40119,Wynnum Golf Club
+40120,Bulimba Golf Club
+40131,Albany Links
+40201,Blackwater Golf Club
+40202,Capella Golf Club
+40203,Clermont Golf Club
+40204,Dysart Golf Club
+40205,Emerald Golf Club
+40206,Middlemount Golf Club
+40207,Moranbah Golf Club
+40208,Springsure Golf Club
+40209,Tieri Golf Club
+40301,Baralaba Golf Club
+40302,Biloela Golf Club
+40303,Boyne Island Tannum Sands Golf Club
+40304,Calliope Golf Club
+40305,Capricorn International Resort
+40306,Capricorn Country Club
+40307,Duaringa Golf Club
+40308,Emu Park Golf Club
+40309,Gladstone Golf Club
+40310,Gracemere Lake Golf Club
+40311,Miriam Vale Golf Club
+40312,Moura and District Golf Club
+40313,Mt Morgan Golf Club
+40314,Rockhampton Golf Club
+40315,Theodore Golf Club
+40316,Wowan Golf Club
+40317,Yeppoon Golf Club
+40318,1770 Golf Club
+40401,Alpha Golf Club
+40402,Barcaldine Golf Club
+40403,Blackall Golf Club
+40404,Ilfracombe Golf Club
+40405,Isisford Golf Club
+40406,Longreach Golf Club
+40407,Muttaburra Golf Club
+40408,Tambo Golf Club
+40501,Bell and District Golf Club
+40502,Borneo Barracks Golf Club
+40503,Cecil Plains Golf Club
+40504,City Golf Club
+40505,Clifton Golf Club
+40506,Crows Nest Golf Club
+40507,Dalby Golf Club
+40508,Gatton Jubilee Golf Club
+40509,Goombungee Golf Club
+40510,Inglewood Golf Club
+40511,Jandowae Golf Club
+40512,Killarney Golf Club
+40513,Millmerran Golf Club
+40514,Oakey Golf Club
+40515,Pittsworth Golf Club
+40516,Stanthorpe Golf Club
+40517,Texas Golf Club
+40518,Toowoomba Golf Club
+40519,Wallangarra Army Golf Club
+40520,Warwick Golf Club
+40521,Allora Golf Club
+40601,Atherton Golf Club
+40602,Babinda Golf Club
+40603,Cairns Golf Club
+40604,Cardwell Golf Club
+40605,Carpentaria Golf Club
+40606,Cooktown Golf Club
+40607,El Arish Golf Club
+40608,Georgetown Golf Club
+40609,Gordonvale Golf Club
+40610,Half Moon Bay Golf Club
+40611,Innisfail Golf Club
+40612,Mareeba Golf Club
+40613,Millaa Millaa Golf Club
+40614,Mossman Golf Club
+40615,Mount Garnet Golf Club
+40618,Ravenshoe Millstream Country Club
+40619,Tully Country Golf Club
+40620,Mirage Country Club
+40621,Paradise Palms Golf Course
+40622,Palmer Sea Reef
+40701,Arundel Hills Country Club
+40702,Boomerang Farm Golf Course
+40704,Canungra Area Golf Club
+40705,Emerald Lakes Golf Club
+40707,Burleigh Golf Club
+40709,Helensvale Golf Club
+40710,Links Hope Island Golf Club
+40711,Palmer Colonial
+40712,Parkwood International Golf Club
+40713,Palmer Gold Coast
+40714,RACV Royal Pines Resort Golf Club
+40715,Sanctuary Cove Golf and Country Club The Palms
+40716,Sanctuary Cove Golf and Country Club -The Pines
+40717,Southport Golf Club
+40718,Surfers Paradise Golf Club
+40719,Tallai Country Club
+40720,Tallebudgera Golf Course
+40721,Tally Valley Golf Club
+40722,Tamborine Mountain Golf Club
+40723,Palm Meadows Golf Course
+40724,Lakelands Golf Club
+40725,The Grand Golf Club
+40727,The Glades Golf Club
+40801,Boonah Golf Club
+40802,Esk Golf Club
+40803,Ipswich Golf Club
+40804,Karana Downs Golf Course
+40805,Laidley Golf Club
+40806,Lowood and District Golf Club
+40809,Rosewood Golf Club
+40810,Sandy Gallop Golf Club
+40811,Toogoolawah Golf Club
+40812,Hattonvale Golf Club
+40813,Brookwater Golf Club
+40901,Ayr Golf Club
+40902,Bowen Golf Club
+40903,Charters Towers Golf Club
+40904,Collinsville Golf Club
+40905,Glenden Golf Club
+40906,Home Hill Golf Club
+40907,Ingham Golf Club
+40908,Lavarack Golf Club
+40909,Mackay Golf Club
+40910,Magnetic Island Country Club
+40911,Mystic Sands Golf Resort
+40912,Pioneer Valley Golf Club
+40913,Proserpine Golf Club
+40914,Rowes Bay Golf Club
+40915,Sarina Golf Club
+40916,Tropics Golf Club
+40917,Townsville Golf Club
+40922,Black Springs Golf Club
+40923,Hamilton Island Golf Club
+41001,Boulia Golf Club
+41003,Hughenden Golf Club
+41004,Mount Isa Golf Club
+41005,Richmond Golf Club
+41006,Winton Golf Club
+41007,Torrens Creek Golf Club
+41008,Karumba Golf Club
+41101,Bay Islands Golf Club
+41102,Beaudesert Golf Club
+41103,Carbrook Golf Club
+41104,Chambers Pines Golf Course
+41106,Gainsborough Greens
+41107,Hills International Golf Club
+41109,Meadowbrook Golf Club
+41110,Riverlakes Golf Club
+41111,Mt Warren Park Golf Club
+41112,North Stradbroke Island Golf Club
+41114,Redland Bay Golf Club
+41115,Windaroo Lakes Golf Club
+41116,Village Links Golf Club
+41117,Kooralbyn Valley Golf Course
+41201,Augathella Golf Club
+41202,Charleville Golf Club
+41203,Chinchilla Golf Club
+41205,Cunnamulla Golf Club
+41206,Dirranbandi Golf Club
+41207,Dulacca Country Golf Club
+41208,Dunkeld Memorial Golf Club
+41209,Goondiwindi Golf Club
+41210,Inglestone Golf Club
+41211,Injune Golf Club
+41212,Miles Golf Club
+41213,Mitchell Golf Club
+41215,Quilpie Golf Club
+41216,Roma Golf Club
+41217,St George Golf Club
+41219,Tara Golf Club
+41220,Taroom Golf Club
+41225,Yuleba Golf Club
+41301,Beerwah + District Golf Club
+41302,Blackbutt Golf Club Inc
+41303,Bribie Island Golf Club
+41304,Caboolture Golf Club
+41305,Caloundra Golf Club Inc
+41306,Cooroy Golf Club
+41307,Goomeri Golf Club
+41308,Gympie Golf Club Inc.
+41309,Headland Golf Club
+41310,Maroochy River Golf Club
+41311,Palmer Coolum Resort
+41312,Kilcoy Golf Club
+41313,Kilkivan Golf Club
+41314,Kingaroy Golf Club
+41315,Kumbia Golf Course
+41316,Mt Coolum Golf Club
+41317,Murgon Golf Club
+41318,Nambour Golf Club
+41319,Nanango Golf Club
+41321,Twin Waters Golf Club
+41322,Pine Rivers Golf Club
+41323,Proston District Golf Club
+41325,Noosa Golf Club
+41326,Tin Can Bay Country Club Inc
+41327,Wantima Golf Club
+41328,Wondai Golf Club
+41329,Woodford Golf Club
+41331,Noosa Springs Country Club
+41333,Pelican Waters Golf Club
+41334,North Lakes Golf Club
+41335,Peregian Golf Club
+41336,Pacific Harbour Golf and Country Club
+41338,Maleny Golf Club
+41339,Gunabul Homestead
+41401,Bargara Golf Club
+41402,Biggenden Golf Club
+41403,Bundaberg Golf Club
+41404,Burrum District Golf Club
+41407,Fraser Lakes Golf Club
+41408,Gayndah Golf Club
+41409,Gin Gin Golf Club
+41410,Hervey Bay Golf and Country Club
+41411,Isis Golf Club
+41412,Maryborough Golf Club
+41413,Monto Golf Club
+41414,Mt Perry Golf Club
+41415,Mundubbera Golf Club
+41417,Coral Cove Golf Club Pty Ltd
+41418,Innes Park Golf Club
+41419,Oakwood Park Golf Club
+41420,Eidsvold Golf Club
+41421,Boonooroo Golf Club
+41606,Old Perle Social Golf Club
+41609,The Tour Fore Golfers
+41621,Student Golf Network
+43210,iGolf Queensland
+49002,Victoria Park Golf Complex
+49003,St Lucia Golf Links
+50101,Glenelg Golf Club
+50102,Grange Golf Club
+50103,Kooyonga Golf Club
+50104,Royal Adelaide Golf Club
+50110,Edwardstown Football Club Golf
+50111,The Visitors Golf Club
+50112,Cheers Social Club
+50115,Beograd Golf Club of SA
+50116,West Croydon Golf Club
+50117,Blackwood & Community RSL Golf
+50118,Redback Golf Club
+50120,ARPA Golf
+50121,389-REDS
+50122,Emu Golf Club
+50125,Golf SA Schools Golf Club
+50126,VIP Golf Club
+50127,VFL Golfers
+50129,The SGA Golf Club
+50130,Below the Pin Golf Club
+50132,GenYgolf
+50133,TPI and Veterans Golf Club
+50135,SOGO SA Golf Club
+50136,Rosewater Football Club Golf
+50137,Eagles Golf Club
+50138,Aboriginal Golf SA
+50140,Golf Gods Golf Club
+50201,Blackwood Golf Club
+50202,Flagstaff Hill Golf Club
+50203,The Vines Golf Club of Reynella
+50204,Stirling Golf Club (ex Mt Lofty)
+50205,Mount Osmond Golf Club
+50206,West Lakes Golf Club
+50207,Tea Tree Gully Golf Club
+50208,Thaxted Park Golf Club
+50301,Belair Park Golf Club
+50303,Highercombe Golf + Country Club
+50304,Marion Park Golf Club
+50305,North Adelaide Golf Club
+50306,North Haven Golf Club
+50307,Playford Lakes Golf Club
+50308,Penfield Golf Club
+50309,Regency Park Golf Club
+50310,Mawson Lakes Golf Club Inc
+50311,Westward HO Golf Club
+50403,Airies Golf Club
+50408,Australian Post-Tel Institute Golf Club
+50410,Balfours Golf Club
+50411,Belair Hotel Golf Club
+50412,BG Golf Club
+50413,Bridgestone Golf Club
+50420,Southern Divots Golf Club
+50421,CTA of SA Golf Club
+50424,Transport Golf Club
+50426,EET Golf Club
+50430,Fulham Ramblers Golf Club
+50435,Henley Golf Club
+50437,Ingle Farm Golf Club
+50438,Islington Works Golf Club
+50439,Kaycee Golf Club
+50440,Kilburn RSL Golf Club
+50441,Kiwi Golf Club
+50444,Maid of Auckland Golf Club
+50446,Mitsubishi Staff Golf Club
+50447,Monroe Golf Club
+50448,Northern Tavern Golf Club
+50452,Port Noarlunga Golf Club
+50454,Reynella Golf Club
+50455,Rosewater Golf Club
+50457,SA Hardware Golf Club Inc
+50458,SA Italian Golf Club
+50459,SA Metro Fire Service Golf Club
+50460,SA Oil-Industry Golf Assoc
+50461,SA Police Golf Club
+50462,SA Public Golf Club
+50463,SA Sports Golf Club
+50464,South Australian Taxi Golf Club
+50468,Shell Golf Club
+50469,Electrolux Golf Club
+50470,The Oaks Golf Club
+50471,The Oddballs Golf Club
+50472,Torrens Valley Golf Club
+50474,Adelaide Nomads Golf Club Incorporated
+50475,Windmill Golf Club
+50476,Southern Cross Golf Club
+50482,Hellenic Golf Club
+50483,Tin Cup Golf Club
+50488,200 D Golf Club
+50490,Aquilla Golf Club Not Affiliated
+50496,RAA Staff Golf Club
+50499,Wanderers Golf Club
+50501,Balaklava Golf Club
+50502,Barossa Valley Golf Club
+50503,Blyth Golf Club
+50504,Burra Golf Club
+50505,Clare Golf Club
+50506,Eudunda Golf Club
+50507,Farrell Flat Golf Club
+50508,Sandy Creek Golf Club
+50509,Hamley Bridge Golf Club
+50510,Kapunda Golf Club
+50512,Morgan-Cadell Golf Club
+50513,Owen Golf Club
+50514,Port Wakefield Golf Club
+50515,Riverton Golf Club
+50516,Saddleworth Golf Club
+50518,Tanunda Pines Golf Club
+50519,Two Wells Golf Club
+50601,Cambrai Golf Club Inc
+50602,Coonalpyn Golf Club
+50604,Lake Albert Golf Club
+50605,Lameroo Golf Club
+50606,Mannum Golf Club
+50607,Mt Pleasant + District Golf Club
+50608,Murray Bridge Golf Club
+50610,Pinnaroo Golf Club
+50611,Swan Reach Golf Club
+50612,Tailem Bend Golf Club
+50702,Booleroo Centre Golf Club
+50703,Coober Pedy Opal Fields Golf Club
+50704,Crystal Brook Golf Club
+50705,Georgetown Golf Club
+50706,Gladstone Golf Club
+50708,Hawker Golf Club Inc
+50709,Jamestown Golf Club
+50710,Laura Riverside Golf Club
+50713,Orroroo Golf Club
+50714,Peterborough Golf Club
+50715,Port Augusta Golf Club
+50716,Port Broughton Golf Club
+50717,Port Germein Golf Club
+50718,Port Pirie Golf Club
+50719,Quorn Golf Club
+50720,Roxby Downs Golf Club
+50721,Snowtown Golf Club
+50722,Stirling North Golf Club
+50724,Tarcowie Golf Club
+50726,Wilmington Golf Club
+50727,Wirrabara Golf Club
+50728,Woomera Golf Club
+50729,Yacka Golf Club
+50901,Barmera Golf Club
+50902,Berri Golf Club
+50903,Loxton Golf Club
+50904,Renmark Golf Club
+50905,Waikerie Golf Club
+51001,Beachport Golf Club
+51002,Blue Lake Golf Club
+51003,Bordertown Golf Club
+51004,Keith Golf Club
+51005,Kingston SE Golf Club
+51006,Lucindale Country Club
+51007,Millicent Golf Club
+51008,Mt Gambier Golf Club
+51009,Naracoorte Golf Club
+51010,Padthaway Golf Club
+51011,Penola Golf Club
+51012,Port MacDonnell Golf Club
+51013,Robe Golf Club
+51014,Tintinara Golf Club
+51102,Penneshaw Golf Club
+51103,Echunga Golf Club
+51104,Mount Compass Golf Club
+51107,Kingscote Golf Club Inc
+51108,Mount Barker-Hahndorf Golf Club
+51109,McCracken Country Club
+51110,McLaren Vale Golf Club
+51111,Nairne Golf Club
+51112,Oakbank Golf Club
+51113,Parndana Golf Club
+51114,South Lakes Golf Club
+51115,Strathalbyn Golf Club
+51116,Victor Harbor Golf Club
+51117,Willunga Golf Club
+51118,Wirrina Cove Golf and Country Club
+51119,Yankalilla Golf Club
+51120,Links Lady Bay Golf Club
+51202,Ceduna Golf Club
+51203,Cleve Golf Club
+51204,Coffin Bay Golf Club
+51206,Cowell Golf Club
+51207,Cummins Golf Club
+51208,Darke Peak Golf Club
+51209,Elliston Golf Club
+51210,Iron Knob Golf Club
+51211,Kimba Golf Club
+51212,Kyancutta Ramblers Golf Club
+51213,Lock Golf Club
+51215,Poochera Golf Club
+51216,Port Kenny Golf Club
+51217,Port Lincoln Golf Club
+51218,Port Neill Golf Club
+51220,Streaky Bay Golf Club
+51221,Tumby Bay Golf Club
+51223,Whyalla Golf Club
+51301,Ardrossan Golf Club
+51302,Bute Golf Club
+51303,Curramulka Golf Club
+51304,Edithburgh Golf Club
+51305,Kadina Golf Club
+51306,Maitland Golf Club
+51307,Minlaton Golf Club
+51308,Moonta Golf Club
+51309,Port Victoria Golf Club
+51310,Port Vincent Golf Club
+51311,Stansbury Golf Club
+51312,Wallaroo Golf Club
+51313,Warooka Golf Club
+51314,Wool Bay Golf Club
+51315,Yorketown Golf Club
+51316,"Copperclub, The Dunes Port Hug"
+51401,Ash-Wood Golf Club
+51402,Airport Golf Club
+51403,Croatian Golf Club
+51407,The Drayton Golf Club    Not Active
+51410,SA Prison Officers Golf Club
+51411,Wellington Golf Club
+51412,Prospectors
+51413,Panther Golf
+51414,Adelaide Social Golf Club
+51415,Jimminy Crickets Golf Club
+51417,Sheidow Park Cricket - Golf Club
+60101,Araluen Country Club
+60102,Mosman Park Golf Club
+60103,Cottesloe Golf Club
+60104,Gosnells Golf Club
+60105,Hartfield Country Club
+60106,Joondalup Country Club
+60107,Kwinana Golf Club
+60108,Lake Karrinyup Country Club
+60109,Lakelands Country Club
+60110,Mandurah Country Club
+60111,Melville Glades Golf Club
+60112,Mount Lawley Golf Club Inc
+60113,Nedlands Golf Club
+60114,Rockingham Golf Club
+60115,Royal Fremantle Golf Club Inc
+60116,Royal Perth Golf Club
+60117,Sea View Golf Club
+60118,Sun City Country Club
+60119,The Vines Golf and Country Club
+60120,Wanneroo Golf Club
+60121,Western Australian Golf Club
+60131,Swan Vale Golf Club
+60132,Westaviat Golf Club
+60501,Blue Jays Ladies Golf Club
+60502,Collier Pines Ladies Golf Club
+60505,Hamersley Ladies Golf Club
+60506,Hawkvalley Ladies Golf Club
+60507,Marangaroo Ladies Golf Club
+60508,Marri Park Ladies Golf Club
+60509,Point Walter Ladies Golf Club
+60510,Redbacks Ladies Golf Club
+60511,Rosehill Ladies Golf Club
+60512,Surfside Ladies Golf Club
+60513,Whaleback Ladies Golf Club
+60514,Whaleback Warriors Golf Club
+60515,Yanchep Golf Club
+60516,Yaringa Ladies Golf Club
+60518,Nyoongar Golf Club
+60519,Scarborough Ladies Golf Club
+60520,Embleton Ladies Golf Club
+60521,The Links Ladies Golf Club
+60522,Jandalakes Ladies Golf Club
+60525,Quondong Ladies Golf Club
+60526,Seabirds Golf Club
+60527,Coastal Ladies Golf Club
+60528,Peninsula Ladies Golf Club
+60529,Embers Golf Club
+60531,Lakesiders 9 Hole Golf Club
+60533,Collier Park Sund'yniners Club Inc
+60535,Port Ladies - 9 Hole Golf Club
+60536,Sapphires Ladies Golf Club
+60537,Maylands Peninsula Golf Club
+61001,Armadale Public Golf Course
+61003,Burswood Park Public Golf Course
+61004,Carramar Golf Course
+61005,Collier Park Golf Course
+61006,Fremantle Public Golf Course
+61007,Glen Iris Public Golf Course
+61008,Hamersley Public Golf Course
+61009,Hillview Public Golf Course
+61010,Lake Claremont Golf Course
+61012,Marangaroo Golf Course
+61013,Marri Park Golf Course
+61014,Maylands Peninsula Public Golf Course
+61015,Point Walter Public Golf Course
+61016,Rosehill Public Golf Course
+61017,Wembley Golf Complex
+61018,Whaleback Golf Course
+61019,Embleton Golf Course
+64001,Bakers Hill Golf Club
+64003,Boolbardie Country Club
+64006,Carnarvon Golf Club WA
+64007,Christmas Island Golf Club
+64008,Cunderdin Golf Club
+64009,Denmark Country Club
+64010,Dongara Golf Club
+64011,Dowerin Golf Club
+64013,Dunsborough Lakes Golf Club
+64014,Exmouth Golf Club
+64016,Green Range Country Club
+64017,Guilderton Golf Club
+64018,Harrismith Golf Club
+64019,Lake Yealering Golf Club
+64020,Binningup Golf Club
+64022,Northam Country Golf Club
+64023,Nungarin Golf Club
+64024,Rottnest Island Golf Club
+64025,Sanctuary Golf Resort
+64026,Tammin Golf Club
+64027,Wyalkatchem Golf Club
+64028,Yerecoin Golf Club
+64030,El Caballo Golf Club
+64032,Preston Beach Golf Club
+64033,Ledge Point Country Club
+65001,Beverley Golf Club
+65002,Brookton Country Club
+65003,Corrigin Golf Club
+65004,Kweda Golf Club
+65005,Quairading Golf Club
+65006,York Golf Club
+65101,Balingup Golf Club
+65102,Boyup Brook Golf Club
+65103,Bridgetown Golf Club
+65104,Greenbushes Golf Club
+65105,Manjimup Country Club
+65106,Northcliffe Golf Club
+65107,Pemberton Golf Club
+65108,Nannup Golf Club
+65109,Tonebridge Country Club
+65110,Walpole Country Club
+65201,Meckering Golf Club
+65202,Toodyay Golf Club
+65203,Wundowie Golf Club
+65301,Badgingarra Golf Club
+65302,Cervantes Golf Club
+65303,Dandaragan Golf Club
+65304,Eneabba Golf Club
+65305,Gingin Golf Club
+65306,Greenhead Golf Club
+65307,Jurien Bay Golf Club
+65308,Lancelin Golf Club
+65309,Moora Lake View Golf Club
+65401,Chequers Golf Club
+65403,Mundaring Sporting Club
+65404,Pickering Brook Sports Club
+65405,Pinjarra Golf Club
+65406,Serpentine + Districts Golf Club
+65407,Waroona Golf Club
+65501,Baandee Golf Club
+65502,Kellerberrin Golf Club
+65503,Merredin Golf Club
+65504,Muntadgin Golf Club
+65505,Nokaning Golf Club
+65506,Southern Cross Golf Club
+65507,Westonia Golf Club
+65605,Kambalda Country Club
+65606,Leonora Golf Club
+65607,Norseman Golf Club
+65608,Salmon Gums Golf Club Inc
+65609,Goldfields Golf Club
+65701,Condingup Country Club
+65702,Esperance Golf Club
+65703,Munglinup Golf Club
+65704,Pink Lake Country Club
+65706,Scaddan Golf Club
+65801,Boddington Golf Club
+65802,Cuballing Golf Club
+65803,Darkan Golf Club
+65805,Katanning Country Club
+65806,Lake View Golf Club Inc
+65807,Moodiarrup Golf Club
+65808,Narrogin Golf Club
+65809,Pingelly Golf Club
+65810,Wagin Golf Club
+65811,Wandering Golf Club
+65812,Wickepin Golf Club
+65813,Williams Golf Club
+65814,Woodanilling Golf Club
+65901,Kukerin Golf Club
+65902,Lake Grace Golf Club
+65903,Newdegate Golf Club
+65904,Nyabing Golf Club
+65905,Pingaring Golf Club
+66001,Bolgart Golf Club
+66002,Calingiri Golf Club
+66003,Goomalling Golf Club
+66004,Wongan Hills Golf Club
+66102,Leinster Golf Club
+66103,Meekatharra Golf Club
+66104,Mount Magnet Golf Club
+66105,Sandstone Golf Club
+66201,Ballidu Golf Club
+66202,Dalwallinu Golf Club
+66203,Kalannie Golf Club
+66204,Miling Golf Club
+66205,Pithara Golf Club
+66206,Watheroo Golf Club
+66207,Wubin Golf Club
+66301,Binnu Golf Club
+66302,Chapman Valley Golf Club
+66303,Geraldton Golf Club
+66304,Kalbarri Golf Club
+66306,Northampton Golf Club
+66307,Spalding Park Golf Club
+66308,Yuna Golf Club
+66401,Hopetoun Everett Country Club
+66402,Lake King Golf Club
+66403,Ravensthorpe Golf Club
+66404,Varley Country Golf Club
+66501,Fortescue Golf Club
+66502,Karratha Country Club
+66503,Mountain View Sporting Club
+66505,Port Hedland Golf Club
+66601,Ardath Golf Club
+66602,Bruce Rock Golf Club
+66603,Hyden Golf Club
+66604,Kondinin Golf Club
+66606,Kulin Golf Club
+66607,Mount Walker Golf Club
+66608,Narembeen Golf Club
+66701,Borden Golf Club
+66702,Boxwood Hill Golf Club
+66703,Bremer Bay Golf Club
+66704,Gnowangerup Golf Club
+66705,Jerramungup Golf Club
+66707,Ongerup Golf Club
+66801,Augusta Golf Club
+66802,Bunbury Golf Club
+66803,Busselton Golf Club
+66804,Capel Golf Club
+66805,Collie Golf Club
+66806,Donnybrook Country Club
+66807,Dunsborough Country Club
+66808,Harvey Golf Club
+66809,Margaret River Golf Club
+66901,Albany Golf Club
+66902,Broomehill Golf Club
+66903,Cranbrook Golf Club
+66905,Kendenup Country Club
+66906,Kojonup Golf Club
+66907,Mount Barker Golf Club
+66908,Narpanup Golf Club
+66909,Riverview Country Club
+66910,Tambellup Golf Club
+67001,Carnamah Golf Club
+67002,Coorow Golf Club
+67003,Latham Golf Club
+67004,Mingenew Golf Club
+67005,Morawa Golf Club
+67006,Perenjori Golf Club
+67007,Three Springs Golf Club
+67101,Broome Golf Club
+67102,Derby Golf Club
+67201,Bencubbin Golf Club
+67202,Koorda Golf Club
+67203,Mukinbudin Golf Club
+67206,Yelbeni Golf Club
+67303,Halls Creek Golf Club
+67304,Lake Kununurra Golf Club
+67306,Cocos Islands Golf Club
+68001,Meadow Springs Country Club
+68003,Kennedy Bay Links
+69101,All Seasons Golf Club
+69102,Altone Park Golf Club
+69103,The Cut Golf Club (Incorporated)
+69104,Western Kiwi Golf Club
+69105,Australia Golf Club
+69106,Taxi Golf Club
+69107,Palle Maille Golf Club
+69108,Nomads Golf Club
+69109,Miners Golf Club
+69110,City Beach Wanderers Golf Club
+69111,3D Golf Club
+69112,Swan Golf Club
+69113,APG Golf Club
+69114,Perth Golf Network
+69115,Victa Golf Club
+69117,Whaleback Seniors Golf Club
+69118,Keep Swinging Golf Club
+69119,Wembley Wombats
+69120,Castle Golf Club Inc
+69121,Tai Pan Golf Club
+69122,West Coast Golf Club
+69123,Western Pirates Golf Club
+69124,Scrubbers Golf Club
+69126,Stirling Golf Club
+69127,West Coast Nomads Golf Society
+69128,Hamilton Hill Social Golf Club
+69129,Perth Golf Kakis
+69130,Sters Golf Club
+69131,ABM Golf Club
+69132,West Perth Golf Club
+69133,Rosehill Wanderers Golf Club
+69134,Vintage Golf Club
+69135,WACA Golf Club
+69136,Army Golf Club (WA) Inc
+69137,City of Swan Social Golf Club
+69138,Coasters Golf Club
+69139,Moose Hunters Golf Club
+69141,Armadale and Districts Golf Club
+69142,Hill View Social Golf Club Inc
+69144,Peninsula Golf Club Inc
+69145,Marri Park Riverton Golf Club Inc
+69146,Collier Park Golf Club Inc
+69147,Fairway Sportsmans Golf Club Inc
+69148,Forrestdale Golf Club Inc
+69149,High Wycombe Social Golf Club Inc
+69150,Carramar Social Golf Club Inc
+69151,SOS Golf Group Inc
+69152,Glen Iris Lakes Golf Club Inc
+69153,Downs Golf Club
+69154,Embleton Social Golf Club
+69155,RockyOra Scalpers Golf Club
+69156,Fremantle Pirates Golf Club Inc
+69158,City Beach Golf Club
+69159,Northside Social Golf Club Inc
+69160,Watersiders Golf Club
+69161,Northerners Golf Club
+69162,Marri Park - Casuarina Golf Club Inc
+69163,Kalamunda Kiwi Golf Club of W.A. Inc
+69164,Philips Social Golf Club Inc
+69165,Eagles Golf Club
+69167,Beeches Tavern Social Golf Club
+69168,Kalahari Safari Golf Club
+69169,Wanderers Golf Club Perth Inc
+69170,The Platinum Golf Club
+69171,Scuds Social Golf Club Inc
+69172,WA Pharmacy Golf Club
+69174,Aus Chinese Golf Association
+69176,WA Fire Brigades Golf Club
+69177,Charity Golf Club WA
+69178,Rosehill Social Golf Club
+69179,Pine Creek Golf Club Inc
+69180,Downunder Golf Club
+69181,Irish Perth Golf Society
+69182,Rover 60 Social Golf Club
+69183,Cambridge Golf Club
+69184,Strikers Social Golf Club
+69185,Westside Golf Club
+69186,Australian Golf Network
+69187,Wanna Bees Golf Club
+69189,Rockin Rollers Golf Club
+69191,Panna Heights Golf Club
+69193,K Golf Society
+69195,Skabenga Golf Club
+69198,The Earlybirds Golf Club
+69199,Wembley Downs Golf Club
+69200,Golf Frenzy Golf Club
+69201,Wembley Golf Club
+69202,Western Australia Dental Association (WADA) Golf Club
+69203,Willetton Golf Club
+69204,Zambezi Golf Club
+70010,Tasmania Police Golf Club
+76203,Bothwell Golf Club,
+76207,Claremont Golf Club
+76208,Colebrook Golf Club
+76211,Dover Golf Club
+76212,Elderslie Golf Club
+76214,New Town Bay Golf Club
+76217,Geeveston Golf Club
+76220,Huon Valley Golf Club
+76222,Kingston Beach Golf Club,
+76224,Llanherne Golf Club
+76230,Dunalley Golf Club
+76231,New Norfolk Golf Club
+76232,North West Bay Golf Club
+76233,Oatlands Golf Club
+76234,Orford Golf Club
+76235,Ouse Golf Club
+76237,Pittwater Golf Club
+76241,Richmond Golf Club
+76245,Royal Hobart Golf Club
+76250,Iron Pot Golf Club
+76256,Swansea Golf Club
+76257,Tarraleah Golf Club
+76258,Tasman Golf Club
+76259,Tasmania Golf Club
+76260,Tea Tree Golf Club
+76267,Bagdad Community Golf Club
+76302,Bicheno Golf Club
+76304,Bridport Golf Club
+76306,Campbell Town Golf Club
+76309,Deloraine Golf Club
+76313,Exeter Golf Club
+76315,Flinders Island Golf Club
+76316,Freycinet Golf Club
+76318,George Town Golf Club
+76319,Greens Beach Golf Club
+76323,Launceston Golf Club
+76325,Longford Golf Club
+76326,Malahide Golf Club
+76327,Moorina Golf Club
+76328,Mowbray Golf Club
+76338,Poatina Golf Club
+76342,Ringarooma Golf Club
+76343,Riverside Golf Club
+76346,Scottsdale Golf Club
+76352,St Helens Golf Club
+76353,St Marys Golf Club
+76364,PROSPECT VALE GOLF CLUB
+76365,Scamander River Golf Club
+76368,Tam O'Shanter Golf Club
+76370,Country Club Tasmania
+76371,Quamby Estate Golf and Country C
+76405,Burnie Golf Club
+76410,Devonport Golf Club
+76421,King Island Golf Club
+76429,Mountain Vista Golf Club
+76436,Penguin Golf Club
+76439,Port Sorell Golf Club
+76440,Queenstown Golf Club
+76444,Rosebery Golf Club
+76447,Seabrook Golf Club
+76448,Thirlstane Golf Club
+76449,Sheffield Golf Club
+76451,Smithton Golf Club
+76454,Stanley Golf Club
+76455,Strahan Golf Club
+76461,Ulverstone Golf Club
+76462,Wynyard Golf Club
+76463,Zeehan Golf Club
